@@ -5,6 +5,7 @@ import jssc.SerialPortException;
 import jssc.SerialPortList;
 
 public class TestingJssc {
+	//Info for the Serial Port
 	public static final int BAUDE_RATE = 9600;
 	public static final int DATA_BITS = 8;
 	public static final int STOP_BITS = 1;
